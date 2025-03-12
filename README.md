@@ -13,7 +13,7 @@ I strive to create systems that are not only **intelligent but also intuitive**�
 
 🔹 [**GESTURE**](https://github.com/RUHANI7/PROJECT---HAND-GESTURE-DETECTION) - A showcase of my image processing skills
 
-🔹 [**Sales Churn Analysis**](https://github.com/RUHANI7/WebDev) - Data-driven insights into customer retention
+🔹 [**WEB DEV**](https://github.com/RUHANI7/WebDev) - Data-driven insights into customer retention
 
 ---
 
