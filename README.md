@@ -1,13 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Siddhartha%20Kumar%20Panda&fontSize=50&fontAlign=center&fontColor=ffffff)
 
+# 👋 Hey there, I'm Ruhani Bose!
 
-# 👋 Hey there, I'm Siddhartha Kumar Panda!
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Siddhartha%20Kumar%20Panda&fontSize=50&fontAlign=center&fontColor=ffffff)
-
-# 👋 Hey there, I'm Siddhartha Kumar Panda!
-
-I'm a **Machine Learning Specialist** who loves combining AI with creativity to build intelligent, impactful solutions. With a strong background in **image processing, generative AI, and UI/UX design**, I work at the intersection of technology and user experience.
+I am currently pursuing Btech in CSE from Kalinga Institute of Industrial Technology (KIIT)
+Ex Project Intern DRDO | Ex Project Intern State Bank of India | **Assistant Coordinator Of Konnexions KIIT** | **Vice Chairperson GeeksforGeeks KIIT**| Senior Executive KIIT ECELL | HAL Intern Application Approved
 
 I strive to create systems that are not only **intelligent but also intuitive**—from developing deep learning models to designing seamless user interfaces. Let's innovate together! 🚀
 
@@ -15,11 +11,11 @@ I strive to create systems that are not only **intelligent but also intuitive**�
 
 ## 🔥 Featured Projects
 
-🔹 [**PORTFOLIO**](https://github.com/sid1326/PORTFOLIO) - A showcase of my work and technical expertise
+🔹 [**PORTFOLIO**]([https://github.com/RUHANI7/PORTFOLIO](https://github.com/RUHANI7/PROJECT---HAND-GESTURE-DETECTION)) - A showcase of my work and technical expertise
 
-🔹 [**Sales Churn Analysis**](https://github.com/sid1326/Sales-churn-Analysis) - Data-driven insights into customer retention
+🔹 [**Sales Churn Analysis**](https://github.com/RUHANI7/Sales-churn-Analysis) - Data-driven insights into customer retention
 
-🔹 [**Movies**](https://github.com/sid1326/Movies) - A deep dive into movie trends and analytics
+🔹 [**Movies**](https://github.com/RUHANI7/Movies) - A deep dive into movie trends and analytics
 
 ---
 
